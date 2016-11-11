@@ -1,6 +1,9 @@
 this is some small programs I made :
-endless calendar   on c++
-stopwatch for windows    on c++
+
+endless calendar   on c++ ;
+
+stopwatch for windows    on c++ ;
+
 a game 	    on java 
 
 
